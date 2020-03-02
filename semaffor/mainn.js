@@ -17,7 +17,7 @@ var boja = document.getElementsByClassName('boja');
 	  
   }
 var x = setTimeout(changeToYellow, 4000);
-var y = setTimeout(changeToGreen, 8000);
+var y = setTimeout(changeToGreen, 9000);
 var start = setInterval(semafor,14000);
 
 }
